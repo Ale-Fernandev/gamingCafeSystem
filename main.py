@@ -1,7 +1,7 @@
 #Edge case of 12pm midnight when starting at 9pm
 #Available time architecture needs rework ( track-real time. check every 60 seconds with time.sleep)
 #Understanding how 2 GUI
-
+#Could expand this for database use in later iterations
 
 print("This will always be ran")
 
