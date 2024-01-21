@@ -1,4 +1,4 @@
-import john
+import main
 
 john.main()
 
